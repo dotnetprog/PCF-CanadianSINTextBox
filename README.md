@@ -23,7 +23,7 @@ Simply download the managed solution and import it into your CDS environment.
 
 Simple as this:
 
-![Alt text](/Screenshots/config.png?raw=true "config")
+![Alt text](/screenshots/config.png?raw=true "config")
 
 
 
