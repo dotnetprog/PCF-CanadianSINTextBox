@@ -12,6 +12,7 @@ here is an example:
 * Field security profile may not work , but It should, test it before production use.
 * if the bound field is required , somehow the save goes through. You'd need to add the field again on the form with the out of the box textbox control and hide it in order to have the default behavior of mandatory fields.
 * Even if the SIN is invalid, user can save.
+** if you know how to solve this, contact me.
 
 # Installation
 
