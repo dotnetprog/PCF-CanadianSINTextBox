@@ -46,6 +46,9 @@ export class NASControl implements ComponentFramework.StandardControl<IInputs, I
 				
 			}
 		}
+		if(this.props.isEditable){
+			this.props.isEditable = !this._context.mode.isControlDisabled;
+		}
     	this.theContainer = container;
 		
 		
