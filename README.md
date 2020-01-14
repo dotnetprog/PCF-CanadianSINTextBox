@@ -9,8 +9,7 @@ here is an example:
 ![Alt text](/screenshots/ssncontrol.png?raw=true "demo")
 
 # Known Limitations
-* If the field is read-only from the form editor, the field is still editable.
-* Field security profile may not work, test it before production use.
+* Field security profile may not work , but It should, test it before production use.
 * if the bound field is required , somehow the save goes through. You'd need to add the field again on the form with the out of the box textbox control and hide it in order to have the default behavior of mandatory fields.
 * Even if the SIN is invalid, user can save.
 
