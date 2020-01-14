@@ -2,7 +2,7 @@
 a PCF control made for canadian sin.
 
 
-This custom control is basically a textbox make with react and fabric ui that implement canadian sin validator algorythm.  
+This custom control is basically a textbox built on react and fabric ui that implement canadian sin validator algorythm.  
 
 here is an example:
 
